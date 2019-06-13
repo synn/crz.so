@@ -1,8 +1,4 @@
-# Domain name is on sale! 域名正在出售！
-
-
-
-## congratulations!
+# congratulations!
 
 The domain you are visiting is being sold!
 
@@ -12,7 +8,7 @@ If you do not receive a response within three days, you can try to increase the 
 
 
 
-## 恭喜您！
+# 恭喜您！
 
 你所访问的域名正在出售！
 
